@@ -1,4 +1,4 @@
-# AllureReports :briefcase:
+
 #### Автотест по https://www.wildberries.ru/
 
 #### Technology Stack
