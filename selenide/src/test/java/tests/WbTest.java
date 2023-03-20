@@ -1,7 +1,10 @@
+package tests;
+
 import io.qameta.allure.Epic;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import page.MainPage;
+import tests.BaseTest;
 
 @Epic("example testsSuites")
 public class WbTest extends BaseTest {
